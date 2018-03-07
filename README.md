@@ -1,2 +1,0 @@
-# guidesmodsmech
-GitHub Pages
