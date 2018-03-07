@@ -1346,7 +1346,11 @@ body {
   background-image: url("../../../assets/images/mbr-1631x1080.jpg");
 }
 .cid-qLsHicHN5o H1 {
+<<<<<<< HEAD
   color: #000000;
+=======
+  color: #c1c1c1;
+>>>>>>> master
 }
 .cid-qLsHicHN5o .mbr-text,
 .cid-qLsHicHN5o .mbr-section-btn {
@@ -1354,7 +1358,19 @@ body {
 }
 .cid-qLsHicHN5o .mbr-text,
 .cid-qLsHicHN5o .mbr-section-btn B {
+<<<<<<< HEAD
   color: #000000;
+=======
+  color: #ffffff;
+}
+.cid-qLyUmQ3eL0 {
+  padding-top: 60px;
+  padding-bottom: 120px;
+  background-image: url("../../../assets/images/thevideogamegallery-37954-3840x2160-1-2000x1125.jpg");
+}
+.cid-qLyUmQ3eL0 .mbr-section-subtitle {
+  color: #b2ccd2;
+>>>>>>> master
 }
 .cid-qLqo4Zfpms {
   padding-top: 120px;
@@ -1456,6 +1472,17 @@ body {
   -webkit-transition: 0.2s background ease-in-out;
   transition: 0.2s background ease-in-out;
 }
+<<<<<<< HEAD
+=======
+.cid-qLyU3lb0AR {
+  padding-top: 60px;
+  padding-bottom: 120px;
+  background-image: url("../../../assets/images/thevideogamegallery-37954-3840x2160-1-2000x1125.jpg");
+}
+.cid-qLyU3lb0AR .mbr-section-subtitle {
+  color: #b2ccd2;
+}
+>>>>>>> master
 .cid-qLssho5zfd {
   padding-top: 120px;
   padding-bottom: 45px;
