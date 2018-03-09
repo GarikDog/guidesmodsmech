@@ -1342,19 +1342,73 @@ body {
   padding-bottom: 45px;
   background-image: url("../../../assets/images/thevideogamegallery-37954-3840x216011-1-2000x637.jpg");
 }
-.cid-qLsHicHN5o {
-  background-image: url("../../../assets/images/mbr-1631x1080.jpg");
+.cid-qLOErW69Ln {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-color: #232323;
 }
-.cid-qLsHicHN5o H1 {
-  color: #c1c1c1;
+.cid-qLOErW69Ln p {
+  color: #767676;
 }
-.cid-qLsHicHN5o .mbr-text,
-.cid-qLsHicHN5o .mbr-section-btn {
-  color: #000000;
+.cid-qLOErW69Ln .mbr-section-subtitle {
+  color: #767676;
 }
-.cid-qLsHicHN5o .mbr-text,
-.cid-qLsHicHN5o .mbr-section-btn B {
-  color: #ffffff;
+.cid-qLOErW69Ln .accordion-content {
+  flex-basis: 100%;
+  -webkit-flex-basis: 100%;
+}
+.cid-qLOErW69Ln .panel-group {
+  width: 100%;
+}
+.cid-qLOErW69Ln .card {
+  border-radius: 0px;
+  margin-bottom: -1px;
+}
+.cid-qLOErW69Ln .card .card-header {
+  border-radius: 0px;
+  border: 0px;
+  padding: 0;
+}
+.cid-qLOErW69Ln .card .card-header a.panel-title {
+  margin-bottom: 0;
+  font-style: normal;
+  font-weight: 500;
+  display: block;
+  text-decoration: none !important;
+  margin-top: -1px;
+  line-height: normal;
+}
+.cid-qLOErW69Ln .card .card-header a.panel-title:focus {
+  text-decoration: none !important;
+}
+.cid-qLOErW69Ln .card .card-header a.panel-title h4 {
+  padding: 1.3rem 2rem;
+  border: 1px solid #dfdfdf;
+  margin-bottom: 0;
+}
+.cid-qLOErW69Ln .card .card-header a.panel-title h4 .sign {
+  padding-right: 1rem;
+}
+.cid-qLOErW69Ln .mbr-figure {
+  -webkit-align-self: flex-start;
+  align-self: flex-start;
+  padding-left: 4rem;
+}
+@media (max-width: 991px) {
+  .cid-qLOErW69Ln .mbr-figure {
+    padding-right: 0;
+    padding-left: 0;
+    padding-top: 2rem;
+  }
+}
+.cid-qLOErW69Ln H2 {
+  color: #149dcc;
+}
+.cid-qLOErW69Ln H4 {
+  color: #149dcc;
+}
+.cid-qLOErW69Ln .panel-text {
+  color: #149dcc;
 }
 .cid-qLyUmQ3eL0 {
   padding-top: 60px;
